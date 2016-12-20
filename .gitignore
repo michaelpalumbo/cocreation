@@ -1,2 +1,2 @@
-# Media Files
-*.mp3
+# Meetings
+/Meetings/*.mp3
