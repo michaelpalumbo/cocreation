@@ -1,1 +1,1 @@
-# cocreation
+# collective
